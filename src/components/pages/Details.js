@@ -67,7 +67,7 @@ const Details = () => {
               </p>
             </li>
             <li>
-              <p>Latlng:</p>
+              <p>Latitude & Longitude:</p>
               <p>
                 {Object.values(countryDetails[0].latlng)
                   .map((item) => item)

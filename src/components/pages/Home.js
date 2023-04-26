@@ -22,14 +22,14 @@ const Home = () => {
       </div>
       <div className="search">
         <select
+          className="select"
           type="text"
           name="region"
           value={region}
-          className="select"
           onChange={(e) => setRegion(e.target.value)}
         >
           <option value="">View by Region</option>
-          <option value="Asia">Asia Specific</option>
+          <option value="Asia">Asia Pacific</option>
           <option value="America">America</option>
           <option value="Africa">Africa</option>
           <option value="Europe">Europe</option>
