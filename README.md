@@ -7,8 +7,8 @@
 
 <div align="center">
 <h3><b>screenshot</b></h3>
-<img src="src/assets/nation2.png" alt="screenshoot" width="500"  height="auto"/>
-<img src="src/assets/Nation1.png" alt="screenshoot" width="500"  height="auto"/>
+<img src="src/assets/nation2.png" alt="screenshoot" width="500"  height="450"/>
+<img src="src/assets/nation1.png" alt="screenshoot" width="500"  height="450"/>
 </div>
 
 <!-- TABLE OF CONTENTS -->
